@@ -1,5 +1,5 @@
 import React from "react";
-import "./CloudStyles.css";
+import "./cloudStyles.css";
 const Cloud = () => {
   return (
     <div className="cloud">
